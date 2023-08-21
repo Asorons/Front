@@ -25,3 +25,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## This is a learning project, i'm currently learning how angular works, using a CRUD as a starting point and adding a few tools like sweetalert2 and bootstrap.
+I'll try to keep it updated and learn a lot more.
